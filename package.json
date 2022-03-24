@@ -1,0 +1,14 @@
+{
+  "name": "web-api-node",
+  "version": "1.0.0",
+  "description": "web api with Node JS",
+  "main": "index.js",
+  "author": "marcelo-gomj <marcelomgj005@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
